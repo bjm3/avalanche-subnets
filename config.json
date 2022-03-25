@@ -18,7 +18,7 @@
     "debug-api-enabled": false,
     "web3-api-enabled": true,
     "local-txs-enabled": false,
-    "pruning-enabled": false,
+    "pruning-enabled": true,
     "api-max-duration": 0,
     "api-max-blocks-per-request": 0,
     "allow-unfinalized-queries": false
